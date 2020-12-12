@@ -56,9 +56,9 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-author = "Themefisher"
+author = "Shapewear Nepal"
 contact_form_action = "#"
-currency = "$"
+currency = "Rs "
 description = "This is meta description"
 logo = "images/logo.png"
 logo_width = "100px"

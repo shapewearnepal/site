@@ -44,7 +44,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,

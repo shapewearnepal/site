@@ -8,11 +8,10 @@ images:
 - "/images/shaper-4.png"
 - "/images/shaper-5.png"
 description: this is meta description
-price: '1199.00'
-discount_price: '25.00'
+price: '1999.00'
+discount_price: '1199.00'
 colors:
 - black
-- white
 - gray
 sizes:
 - small

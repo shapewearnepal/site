@@ -1,12 +1,14 @@
 ---
 banner:
   enable: true
-  title: Perfect shapers and trainsers for your body
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
-  image: images/watch.png
+  title: The Best Shapewear & Women's Wear
+  content: 'Free yourself from fear of fashion malfunctions with a little help from
+    this amazing shapewear collection, including plus size shapewear. By smoothing
+    out any lumps and bumps, these women’s body shapers and body slimmers create a
+    sleek silhouette under even the most finicky of fabrics.
+
+'
+  image: images/banner.png
   button:
     enable: true
     label: Browse All Products

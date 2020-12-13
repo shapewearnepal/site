@@ -22,7 +22,7 @@ features:
     icon: tf-ion-ios-bell-outline
     content: 'Steel spiral bonds provide excellent support.  '
   - title: Adjustable
-    icon: tf-ion-ios-bell-outline
+    icon: tf-ion-ios-checkmark-circle-outline
     content: Three hooks and eye columns to close the shaper with the compression
       that you want
   - title: Comfortable

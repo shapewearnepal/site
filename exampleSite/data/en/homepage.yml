@@ -25,10 +25,10 @@ features:
     icon: tf-ion-ios-bell-outline
     content: Three hooks and eye columns to close the shaper with the compression
       that you want
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+  - title: Comfortable
+    icon: tf-ion-ios-bell-outline
+    content: Sculpts waist and flattens abs instantly to smooth your curves and adjust
+      perfectly to your body
   right_side: []
 promo:
   enable: false

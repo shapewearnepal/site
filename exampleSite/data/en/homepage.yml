@@ -19,9 +19,8 @@ features:
   image: images/featture.png
   left_side:
   - title: Steel bonded
-    icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    icon: ''
+    content: 'Steel spiral bonds provide excellent support.  '
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,

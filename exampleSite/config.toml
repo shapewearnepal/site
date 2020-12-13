@@ -1,5 +1,5 @@
 baseurl = "http://www.shapewear.com.np"
-disableLanguages = ["fr"]
+disableLanguages = ["Fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"

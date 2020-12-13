@@ -52,7 +52,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why choose body shapers ?
   items:
   - image: images/

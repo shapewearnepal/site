@@ -19,7 +19,7 @@ features:
   image: images/featture.png
   left_side:
   - title: Steel bonded
-    icon: ''
+    icon: tf-ion-ios-bell-outline
     content: 'Steel spiral bonds provide excellent support.  '
   - title: Adjustable
     icon: tf-ion-ios-bell-outline

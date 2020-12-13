@@ -14,9 +14,9 @@ banner:
     label: Browse All Products
     link: products
 features:
-  enable: false
+  enable: true
   title: Our Core Features
-  image: images/watch-2.png
+  image: images/featture.png
   left_side:
   - title: Steel bonded
     icon: tf-ion-ios-alarm-outline

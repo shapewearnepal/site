@@ -15,7 +15,7 @@ contentDir = "content/french"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
 languageCode = "fr-fr"
 languageName = "Fr"
-weight = 2
+weight = "0"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
